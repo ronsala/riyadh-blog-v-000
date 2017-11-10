@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: #191970 center no-repeat;
+  background: radial-gradient(circle, white, #191970);
   background-size: cover;
   background-attachment: fixed;
   font-family: "Times New Roman", Georgia, Serif;
