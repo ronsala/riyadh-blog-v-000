@@ -9,7 +9,7 @@ body {
   background: radial-gradient(circle, gray, #191970);
   background-size: cover;
   background-attachment: fixed;
-  font-family: "Times New Roman", Georgia, Serif;
+  font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
   font-size: 110%;
 }
 
