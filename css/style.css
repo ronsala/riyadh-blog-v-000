@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: blue center no-repeat;
   background-size: cover;
   background-attachment: fixed;
   font-family: "Times New Roman", Georgia, Serif;
